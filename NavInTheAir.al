@@ -7,8 +7,9 @@ pageextension 50100 CustomerExtList extends "Customer List"
     trigger OnOpenPage();
     begin
         Message('App published Hello world!');
-        //AW16807
+        //AW16807>>
         Message('Первое изменение в основной ветке');
+        //AW16807<<
     end;
 
 }
