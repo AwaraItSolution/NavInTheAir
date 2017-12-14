@@ -10,6 +10,9 @@ pageextension 50100 CustomerExtList extends "Customer List"
         //AW16807>>
         Message('Первое изменение в основной ветке');
         //AW16807<<
+        //AW16809>>
+        Message('Разработка в основной ветке');
+        //AW16809<<        
     end;
 
 }
