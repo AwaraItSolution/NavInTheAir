@@ -10,6 +10,9 @@ pageextension 50100 CustomerExtList extends "Customer List"
         //AW12345
         Message('First modification.');
         //
+        //AW12347
+        Message('Modification in master.');
+        //
     end;
 
 }
