@@ -7,8 +7,6 @@ pageextension 50100 CustomerExtList extends "Customer List"
     trigger OnOpenPage();
     begin
         Message('App published Hello world!');
-        Message('Second window next next 2!');
-
     end;
 
 }
