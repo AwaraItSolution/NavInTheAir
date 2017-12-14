@@ -16,6 +16,7 @@ pageextension 50100 CustomerExtList extends "Customer List"
         //AW121346
         Message('Modification in Brunch1.');
         //
+        // Переключились на сет репозиторий
     end;
 
 }
