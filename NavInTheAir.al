@@ -13,6 +13,9 @@ pageextension 50100 CustomerExtList extends "Customer List"
         //AW16809>>
         Message('Разработка в основной ветке');
         //AW16809<<        
+        //AW16808>>
+        Message('Изменение в ветке NavInTheAir_Brunch');
+        //AW16808<<
     end;
 
 }
